@@ -1,11 +1,26 @@
-# 👋 Hi, I’m @otgon2024  
-- 👀 I’m interested in **Climate Change, Remote Sensing, and Sustainable Development**  
-- 🌱 I’m currently learning **PLUS Model, GEE, and Land Use Simulation**  
-- 💞️ I’m looking to collaborate on **Glacier Retreat, GLOF Risk Mapping, and AI-based Environmental Monitoring**  
-- 📫 How to reach me: otgonbayar@email.com / [LinkedIn](https://linkedin.com/in/otgon2024)  
-- 😀 Pronouns: He/Him  
-- ⚡ Fun fact: I miss drinking Mongolian aarts while studying glaciers in Korea 🇲🇳🥛🇰🇷  
+# 👋 Hi, I’m @otgon2024
 
----
+## 👀 Interests  
+🌍 Climate Change  
+🛰️ Remote Sensing  
+🌱 Sustainable Development  
 
-_This is my personal GitHub README. It shows up on my profile. Happy coding!_
+## 🌱 Currently Learning  
+- PLUS Model (Patch-generating Land Use Simulation)  
+- Google Earth Engine (GEE)  
+- Land Use and Cover Change (LUCC) modeling  
+
+## 💞️ Collaboration Goals  
+- Glacier Retreat Analysis  
+- GLOF (Glacial Lake Outburst Flood) Risk Mapping  
+- AI-based Environmental Monitoring  
+
+## 📫 Contact  
+📧 Email: otgonbayar@email.com  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+
+## 😀 Pronouns  
+He/Him  
+
+## ⚡ Fun fact  
+I miss drinking Mongolian **aarts** while studying glaciers in Korea 🇲🇳🥛🇰🇷
